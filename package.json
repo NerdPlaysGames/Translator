@@ -1,0 +1,25 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "A small bot that translates two different chats in two different languages",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdPlaysGames/Translator.git"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "Nerd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NerdPlaysGames/Translator/issues"
+  },
+  "homepage": "https://github.com/NerdPlaysGames/Translator#readme",
+  "dependencies": {
+    "google-translate": "^2.3.0"
+  }
+}
