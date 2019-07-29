@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/NerdPlaysGames/Translator#readme",
   "dependencies": {
-    "google-translate": "^2.3.0"
+    "discord.js": "^11.5.1",
+    "node-google-translate-skidz": "^1.1.2"
   }
 }
